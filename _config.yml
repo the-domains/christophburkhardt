@@ -1,6 +1,6 @@
 name: Christoph Burkhardt
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.46519
 title: How to change the world
 cta:
@@ -24,6 +24,6 @@ color:
     - '#919191'
   brandStrength: 0.125
   lightness: 0.5
-  saturation: 0.5
+  saturation: 1
   rhythmicContrast: 0.75
 purpose: []
