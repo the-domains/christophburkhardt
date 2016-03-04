@@ -1,29 +1,41 @@
-name: Christoph Burkhardt
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.46519
 title: How to change the world
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6875
+  brandStrength: 0.125
+  rhythmicContrast: 0.75
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  lightness: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: Christoph Burkhardt
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#eeeeee'
-    - '#070707'
-    - '#cbcbcb'
-    - '#65666a'
-    - '#919191'
-  brandStrength: 0.125
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.4440713233780116
+layout_spectrum: 0.6774194
