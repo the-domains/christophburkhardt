@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[How to change the world]]></title>
         <description><![CDATA[How to change the world]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christophburkhardt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 00:50:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 00:59:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christophburkhardt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/christophburkhardt/6006da82-69fd-495e-9d45-bfbc0b498d93/index.html</link>
+            <guid isPermaLink="false">6006da82-69fd-495e-9d45-bfbc0b498d93</guid>
+            <pubDate>Fri, 04 Mar 2016 00:56:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e551096c-0015-43a4-9aae-2d70235d55b7.jpg">]]></description>
-            <link>undefined80ec4d98-1d32-4775-9f76-71b609651e5b/index.html</link>
+            <link>https://thegrid.ai/christophburkhardt/80ec4d98-1d32-4775-9f76-71b609651e5b/index.html</link>
             <guid isPermaLink="false">80ec4d98-1d32-4775-9f76-71b609651e5b</guid>
             <pubDate>Fri, 04 Mar 2016 00:49:42 GMT</pubDate>
         </item>
